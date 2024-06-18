@@ -264,3 +264,5 @@ struct node* get_next_node(struct node* p, int direction) {
             exit(-1);
     }
 }
+
+void a() {}
